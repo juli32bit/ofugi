@@ -8,8 +8,8 @@
 <pre>
 src/
   └──
-    ├── index.html        # Arquivo HTML principal
-    ├── styles.css        # Arquivo CSS
+    ├── index.html            # Arquivo HTML principal
+    ├── styles.css            # Arquivo CSS
     └── windows4k.jpg         # Imagem usada no background
 
 </pre>
