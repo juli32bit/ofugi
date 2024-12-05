@@ -1,6 +1,6 @@
 # Plano de carreira - aula de Introdução à computação ministrada pelo professor Fabrício Ofugi 
 
-<li>Este plano de carreira tem como objetivo elucidar o plano de carreira em PDF da consultoria de segurança criado para a aula de introdução à computação, ministrado pelo professor Fabrício Ofugi. </li>
+<li>Este plano de carreira tem como objetivo elucidar o plano de carreira em PDF da consultoria de segurança criado para a aula de introdução à computação, ministrada pelo professor Fabrício Ofugi. </li>
 
 
 <li>Estrutura dos arquivos:</li>
