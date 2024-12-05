@@ -10,7 +10,7 @@ src/
   └──
     ├── index.html        # Arquivo HTML principal
     ├── styles.css        # Arquivo CSS
-    └── image.jpg         # Imagem usada no background
+    └── windows4k.jpg         # Imagem usada no background
 
 </pre>
 
